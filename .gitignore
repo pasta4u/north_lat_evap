@@ -1,0 +1,12 @@
+data
+*.pyc
+*.sav
+*.dbf
+*.cpg
+*.prj
+*.shp
+*.shx
+*.xlsx
+*.dll
+*.svg
+*.png

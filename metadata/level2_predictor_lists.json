@@ -1,0 +1,18 @@
+{
+"finseflux": ["SWin", "LWin", "TA", "VPD",
+            "SWC","TS", "SHF",
+            "snowfree", "shoulder", "PA", "WS",
+            "albedo", "LWout","GDD","TSR"],
+"myr2": ["SWin", "LWin", "TA", "VPD",
+        "TS","SWC","WTD", "SHF",
+        "snowfree","shoulder",
+        "PA", "WS","albedo",
+        "LWout","GDD","TSR"],
+"iskoras": ["SWin", "LWin", "TA", "VPD",
+        "SWC","TS","SHF",
+        "snowfree","shoulder", "PA", 
+        "WS","albedo", "LWout","GDD","TSR"],
+"adventdalen": ["SWin", "LWin","albedo",
+            "LWout", "TA", "VPD","TS",
+            "PA","WS","snowfree","shoulder","GDD","TSR"]
+}

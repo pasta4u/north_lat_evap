@@ -1,0 +1,18 @@
+{
+"ET": {"biomet_baseline_variable": "SWout",
+		"biomet_baseline_coeff": 0.006,
+		"era5_baseline_variable": "ssr",
+		"era5_baseline_coeff": 0.0000003},
+"H": {"biomet_baseline_variable": "SWout",
+		"biomet_baseline_coeff": 0.006,
+		"era5_baseline_variable": "d2m",
+		"era5_baseline_coeff": 1},
+"SWout": {"biomet_baseline_variable": "SWout",
+		"biomet_baseline_coeff": 0.006,
+		"era5_baseline_variable": "d2m",
+		"era5_baseline_coeff": 1},
+"RH": {"biomet_baseline_variable": "SWout",
+		"biomet_baseline_coeff": 0.006,
+		"era5_baseline_variable": "d2m",
+		"era5_baseline_coeff": 1}
+		}

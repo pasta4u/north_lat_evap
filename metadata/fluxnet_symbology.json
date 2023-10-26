@@ -1,0 +1,6 @@
+{"ENF": {"color": "darkgrey",
+        "marker": "v"},
+"WET": {"color": "black",
+        "marker": "s"},
+"other": {"color": "gainsboro",
+        "marker": "*"}}
